@@ -1,0 +1,17 @@
+# Build artifacts
+miniRT
+*.o
+*.a
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Linux / graphics runtime
+*.out
+vgcore.*
